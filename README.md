@@ -12,7 +12,7 @@ https://www.conquercrypto.com/conquer-blocks/master-desarrollo-blockchain?utm_so
 
 ### ![programming-code-signs1](https://github.com/Ludmila-nus/Ludmila-nus/assets/123734518/be92cc4d-2cc1-4b78-bc1e-8ae0971270cb) Socials:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
-https://www.linkedin.com/in/ludmila-bel%C3%A9n-nussio-2b558139/
+https://www.linkedin.com/in/ludmila-nussio/
 
 ### ![programming-code-signs1](https://github.com/Ludmila-nus/Ludmila-nus/assets/123734518/be92cc4d-2cc1-4b78-bc1e-8ae0971270cb) Tech Stack I´m learning:
 
