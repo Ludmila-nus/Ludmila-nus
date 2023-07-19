@@ -7,6 +7,9 @@
 
 ![programming-code-signs1](https://github.com/Ludmila-nus/Ludmila-nus/assets/123734518/be92cc4d-2cc1-4b78-bc1e-8ae0971270cb) Agricultural engineer transitioning into programming, passionate about problem-solving and technological innovation. I am continuously learning and developing programming skills, specializing in Full-Stack Development and Blockchain. My previous experience in the agricultural industry has provided me with a strong foundation in project management, teamwork, and tackling complex challenges. I am excited to merge my knowledge in agronomy with my passion for programming to drive sustainable and efficient technological solutions. I am seeking exciting opportunities where I can apply my skills and continue to grow in the field of programming!
 
+### Studying at ConquerBlocks Academy 
+https://www.conquercrypto.com/conquer-blocks/master-desarrollo-blockchain?utm_source=googleorganico&utm_medium=master-desarrollo-blockchain
+
 ### ![programming-code-signs1](https://github.com/Ludmila-nus/Ludmila-nus/assets/123734518/be92cc4d-2cc1-4b78-bc1e-8ae0971270cb) Socials:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
 https://www.linkedin.com/in/ludmila-bel%C3%A9n-nussio-2b558139/
