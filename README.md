@@ -1,6 +1,7 @@
 # ![mini-icon-code](https://github.com/Ludmila-nus/Ludmila-nus/assets/123734518/548c4b00-a2f8-4577-a722-1b4142d6a183) Hi, I´m Ludmila
 
-![engineer](https://github.com/Ludmila-nus/Ludmila-nus/assets/123734518/0aa43f97-b2ba-4df1-84cc-9e8f9be700b9)
+![Engineer](https://github.com/Ludmila-nus/Ludmila-nus/assets/123734518/5c4292b0-6279-4984-a3d4-e32f41699ec0)
+
 
 
 ### ![mini-icon-code](https://github.com/Ludmila-nus/Ludmila-nus/assets/123734518/1e5d62f4-0c37-4fcf-9637-1d2e70f6fad8) About me:
