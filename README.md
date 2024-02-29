@@ -10,10 +10,22 @@ Agricultural engineer transitioning into programming, passionate about problem-s
 ### ![mini-icon-code](https://github.com/Ludmila-nus/Ludmila-nus/assets/123734518/1e5d62f4-0c37-4fcf-9637-1d2e70f6fad8) Studying at ConquerBlocks Academy 
 https://www.conquercrypto.com/conquer-blocks/master-desarrollo-blockchain?utm_source=googleorganico&utm_medium=master-desarrollo-blockchain
 
+### ![mini-icon-code](https://github.com/Ludmila-nus/Ludmila-nus/assets/123734518/37b817b7-3efe-4be8-9807-4b74a7e47cba) Tech Stack:
+
+ ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) [![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/)
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) [![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/)
+
+
 ### ![mini-icon-code](https://github.com/Ludmila-nus/Ludmila-nus/assets/123734518/86a26b07-8c21-4fe9-aeca-fe70ce8f70f1) Socials:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
 https://www.linkedin.com/in/ludmila-nussio/
 
-### ![mini-icon-code](https://github.com/Ludmila-nus/Ludmila-nus/assets/123734518/37b817b7-3efe-4be8-9807-4b74a7e47cba) Tech Stack:
+### ![mini-icon-code](https://github.com/Ludmila-nus/Ludmila-nus/assets/123734518/37b817b7-3efe-4be8-9807-4b74a7e47cba) Get in touch:
+📞 Phone: +54 351 2406912
 
- ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
+📧 Email: ludmilanussio@hotmail.com
+
+### ![mini-icon-code](https://github.com/Ludmila-nus/Ludmila-nus/assets/123734518/37b817b7-3efe-4be8-9807-4b74a7e47cba) My webside:
+https://ludmilanussio.netlify.app/
+
+
